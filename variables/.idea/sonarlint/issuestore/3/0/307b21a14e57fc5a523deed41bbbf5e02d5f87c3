@@ -1,0 +1,14 @@
+
+R
+java:S1854"<Remove this useless assignment to local variable "student2".(‡şÍŠ
+P
+java:S1854";Remove this useless assignment to local variable "course2".(÷å¿
+S	java:S106"9Replace this use of System.out or System.err by a logger.(üƒşèÿÿÿÿÿ
+A
+java:S1481",Remove this unused "course2" local variable.(÷å¿
+C
+java:S1481"-Remove this unused "student2" local variable.(‡şÍŠ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ŞÉ…
+N	java:S106#"9Replace this use of System.out or System.err by a logger.(¢ë±
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(Ã…Î„úÿÿÿÿ
+N	java:S106'"9Replace this use of System.out or System.err by a logger.(­®Õ×

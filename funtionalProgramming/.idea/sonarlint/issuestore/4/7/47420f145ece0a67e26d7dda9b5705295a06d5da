@@ -1,0 +1,8 @@
+
+h
+java:S4276"RRefactor this code to use the more specialised Functional Interface 'IntPredicate'(Úá­ı
+S	java:S106"9Replace this use of System.out or System.err by a logger.(®ıáëûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(àÓ¨¨
+S	java:S106"9Replace this use of System.out or System.err by a logger.(â»Šœıÿÿÿÿ
+U	java:S106("9Replace this use of System.out or System.err by a logger.(úÌúŒ8¥Çóô¯0
+U	java:S106*"9Replace this use of System.out or System.err by a logger.(´æ8µõóô¯0

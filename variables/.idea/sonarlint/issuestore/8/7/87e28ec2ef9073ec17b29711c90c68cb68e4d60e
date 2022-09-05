@@ -1,0 +1,37 @@
+
+[
+java:S1854"@Remove this useless assignment to local variable "doubleNumber".(›ú‡¯ÿÿÿÿÿ
+U
+java:S1854"?Remove this useless assignment to local variable "floatNumber".(æ…Šæ
+Y
+java:S1854">Remove this useless assignment to local variable "longNumber".(²ÃóÖûÿÿÿÿ
+X
+java:S1854"=Remove this useless assignment to local variable "intNumber".(Ş‹ÿÿÿÿÿ
+U
+java:S1854"?Remove this useless assignment to local variable "shortNumber".(—ÿù»
+[
+java:S1854">Remove this useless assignment to local variable "byteNumber".(É©Üş8¸¯‘Í¯0
+L
+java:S1481"/Remove this unused "byteNumber" local variable.(É©Üş8º‰‘Í¯0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(°ˆÜ»8Ñˆ’Í¯0
+Z	java:S106	"9Replace this use of System.out or System.err by a logger.(×ƒÜ×ùÿÿÿÿ8Şè”Í¯0
+F
+java:S1481"0Remove this unused "shortNumber" local variable.(—ÿù»
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(´å›ıÿÿÿÿ8¢°•Í¯0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ø›¥’üÿÿÿÿ8£°•Í¯0
+I
+java:S1481".Remove this unused "intNumber" local variable.(Ş‹ÿÿÿÿÿ
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Êí…•øÿÿÿÿ8Öá•Í¯0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(»¬üå8êá•Í¯0
+J
+java:S1481"/Remove this unused "longNumber" local variable.(²ÃóÖûÿÿÿÿ
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¹£ö£8ğà–Í¯0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ş…ì8ğà–Í¯0
+F
+java:S1481"0Remove this unused "floatNumber" local variable.(æ…Šæ
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(š£÷¾øÿÿÿÿ8ñà–Í¯0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ñëæûûÿÿÿÿ8ñà–Í¯0
+L
+java:S1481"1Remove this unused "doubleNumber" local variable.(›ú‡¯ÿÿÿÿÿ
+Z	java:S106 "9Replace this use of System.out or System.err by a logger.(êèåúûÿÿÿÿ8ñà–Í¯0
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.(¦ï°Ùûÿÿÿÿ8òà–Í¯0

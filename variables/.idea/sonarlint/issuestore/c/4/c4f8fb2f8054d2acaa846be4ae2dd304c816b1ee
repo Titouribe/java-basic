@@ -1,0 +1,14 @@
+
+P
+java:S1854"5Remove this useless assignment to local variable "c".(Ò•Ÿôúÿÿÿÿ
+W
+java:S1854"5Remove this useless assignment to local variable "b".(¢ãù˜ÿÿÿÿÿ8Ôª¼Ð¯0
+H
+java:S1481"&Remove this unused "b" local variable.(¢ãù˜ÿÿÿÿÿ8Õª¼Ð¯0
+A
+java:S1481"&Remove this unused "c" local variable.(Ò•Ÿôúÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(”½ô•þÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(”½ô•þÿÿÿÿ
+]	java:S125"<This block of commented-out lines of code should be removed.(”½ô•þÿÿÿÿ8×ª¼Ð¯0
+Z	java:S106""9Replace this use of System.out or System.err by a logger.(ôÛÝ¥ÿÿÿÿÿ8§š¸Ð¯0
+Z	java:S106$"9Replace this use of System.out or System.err by a logger.(åö¡½úÿÿÿÿ8³õ¹Ð¯0

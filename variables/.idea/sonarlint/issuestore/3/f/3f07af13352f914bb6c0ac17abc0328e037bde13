@@ -1,0 +1,20 @@
+
+W
+java:S4973"<Strings and Boxed types should be compared using "equals()".(ÑØ§ıùÿÿÿÿ
+W
+java:S4973"<Strings and Boxed types should be compared using "equals()".(ê˜İœøÿÿÿÿ
+^
+java:S4973"<Strings and Boxed types should be compared using "equals()".(ó„£üÿÿÿÿ8õÂ¾Ï¯0
+;
+java:S2129
+" Remove this "String" constructor(‹ú—úÿÿÿÿ
+;
+java:S2129" Remove this "String" constructor(¾ÎêÙÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÑØ§ıùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ê˜İœøÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÉæÕà
+[
+java:S1764"ECorrect one of the identical sub-expressions on both sides of equals.(ÉæÕà
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ó„£üÿÿÿÿ8ÿÂ¾Ï¯0
+G
+java:S1128"1Remove this unused import 'java.io.StringReader'.(¡Ö£
